@@ -1,2 +1,3 @@
 # sgd-inr-fxrate
-SGD/INR FX rate chrome extensions
+An chrome extension that gets the FX rate for SGD/INR. Updates the rate every two hour.
+Uses the local storage to maintain the all time high rate and date
