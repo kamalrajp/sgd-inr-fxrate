@@ -91,12 +91,10 @@ function postProcess(rate) {
      
 }
 
-
 function handleError(ERR){
     applyBadgeText(DEFAULT_RATE,COLOR_RED);  
     setTitle(ERR);
 }
-
 
 // Applies the badge text
 function applyBadgeText(_text, _color) {
